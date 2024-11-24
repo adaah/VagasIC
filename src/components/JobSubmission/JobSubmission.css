@@ -1,0 +1,21 @@
+.job-submission-form {
+    margin: 20px;
+  }
+  
+  .job-submission-form input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .job-submission-form button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .job-submission-form button:hover {
+    background-color: #45a049;
+  }  
